@@ -1,0 +1,17 @@
+DELAY 1000
+REM --------------- Try Linux ---------------
+ALT F2
+DELAY 200
+REM --------------- Try Mac ---------------
+GUI SPACE
+DELAY 200
+REM --------------- Try Windows ---------------
+GUI r
+DELAY 200
+REM --------------- Try ChromeOS ---------------
+CTRL n
+DELAY 200
+REM --------------- Load website ---------------
+STRING <URL>
+DELAY 500
+ENTER
