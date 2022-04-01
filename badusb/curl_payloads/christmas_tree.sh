@@ -2,7 +2,7 @@
 
 # simplesy way to run it will be with curl, you can replace direct URL with HRL shortener
 # curl <RAW link> | bash
-# curl https://gist.githubusercontent.com/Landsil/81209a90884284d2356fc311ef67e5b6/raw/c40001ad2703edc1cd572fa4531e5f33e159013b/christmas_tree.sh | bash
+# curl https://raw.githubusercontent.com/Landsil/flipper_things/main/badusb/curl_payloads/christmas_tree.sh | bash
 
 trap "tput reset; tput cnorm; exit" 2
 clear
