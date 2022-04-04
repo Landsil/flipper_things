@@ -2,7 +2,7 @@ REM Blinky tree by Landsil
 
 DELAY 1000
 REM --------------- Try Linux ---------------
-ALT F2
+GUI
 DELAY 200
 REM ---------------- Try Mac ----------------
 GUI SPACE
