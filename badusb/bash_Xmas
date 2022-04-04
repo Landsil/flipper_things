@@ -1,8 +1,10 @@
-REM Blinky tree by Landsil
-
+REM Wokring As of Ubuntu 20.04, Win 10, 04/2022
 DELAY 1000
 REM --------------- Try Linux ---------------
-GUI
+GUI a
+DELAY 200
+REM --------------- Try Windows ---------------
+GUI q
 DELAY 200
 REM ---------------- Try Mac ----------------
 GUI SPACE
