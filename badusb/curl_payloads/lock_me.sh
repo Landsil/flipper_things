@@ -4,10 +4,6 @@
 # curl <RAW link> | bash
 # curl https://raw.githubusercontent.com/Landsil/flipper_things/main/badusb/curl_payloads/lock_me.sh | bash
 
-resize -s 700 1200
-stty rows 700
-stty cols 1200
-
 trap "tput reset; tput cnorm; exit" 2
 clear
 tput civis
