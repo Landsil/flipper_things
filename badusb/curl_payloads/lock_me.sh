@@ -1,6 +1,6 @@
 #!/bin/bash
-
-# simplesy way to run it will be with curl, you can replace direct URL with HRL shortener
+# Flipper "Lock your computer" by Landsil / StarSquid
+# simplest way to run it will be with curl, you can replace direct URL with HRL shortener
 # curl <RAW link> | bash
 # curl https://raw.githubusercontent.com/Landsil/flipper_things/main/badusb/curl_payloads/lock_me.sh | bash
 
