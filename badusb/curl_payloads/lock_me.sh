@@ -8,6 +8,7 @@ trap "tput reset; tput cnorm; exit" 2
 clear
 tput civis
 tput setab 0
+resize -s 700 1200
 
 r=`tput sgr0;tput setaf 196`
 o=`tput sgr0;tput setaf 208`
