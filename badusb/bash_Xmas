@@ -1,4 +1,5 @@
-REM Wokring As of Ubuntu 20.04, Win 10, 04/2022
+REM Display Chrirtmass three in terminal by Landsil
+REM Working As of Ubuntu 20.04, Win 10, 04/2022
 DELAY 1000
 REM --------------- Try Linux ---------------
 GUI a
