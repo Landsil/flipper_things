@@ -1,0 +1,15 @@
+DELAY 1000
+REM --------------- Try Linux ---------------
+GUI a
+DELAY 200
+REM --------------- Try Windows ---------------
+GUI q
+DELAY 200
+REM ---------------- Try Mac ----------------
+GUI SPACE
+DELAY 200
+REM ------------- Open Terminal -------------
+STRING terminal
+DELAY 250
+ENTER
+DELAY 250
