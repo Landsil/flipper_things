@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# simplesy way to run it will be with curl, you can replace direct URL with HRL shortener
+# If you are oryginal maker please let me know so I can credit you.
+# simplest way to run it will be with curl, you can replace direct URL with HRL shortener
 # curl <RAW link> | bash
 # curl https://raw.githubusercontent.com/Landsil/flipper_things/main/badusb/curl_payloads/christmas_tree.sh | bash
 
