@@ -1,3 +1,4 @@
+REM Open URL on all OS by Landsil
 REM Linux broken :(
 DELAY 1000
 REM --------------- Try Linux ---------------
